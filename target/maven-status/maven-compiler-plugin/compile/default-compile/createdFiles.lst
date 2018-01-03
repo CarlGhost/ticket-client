@@ -1,0 +1,3 @@
+com\ticket\controller\UserController.class
+com\ticket\model\User.class
+com\ticket\service\UserService.class
